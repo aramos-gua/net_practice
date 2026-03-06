@@ -1,7 +1,7 @@
 *This project has been created as part of the 42 curriculum by aramos.*
 
 <p align="center">
-  <img src="media/netpracticem.png" alt="NetPractice badge" width="500"/>
+  <img src="media/netpracticem.png" alt="NetPractice badge" width="150"/>
 </p>
 
 # NetPractice
