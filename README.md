@@ -1,26 +1,8 @@
 *This project has been created as part of the 42 curriculum by aramos.*
 
 <p align="center">
-  <img src="media/netpracticem.png" alt="NetPractice badge" width="500"/>
+  <img src="media/netpracticem.png" alt="NetPractice badge" width="150"/>
 </p>
-
-# NetPractice
-
-## Table of Contents
-
-1.	[Description](#description)
-2.	[Project Goals](#project-goals)
-3.	[Installation](#installation)
-4.	[Instructions](#instructions)
-5.	[Usage](#usage)
-6.	[Project Structure](#project-structure)
-7.	[Networking Concepts Covered](#networking-concepts-covered)
-8.	[Submission Requirements](#submission-requirements)
-9.	[Troubleshooting](#troubleshooting)
-10.	[Resources](#resources)
-11.	[License](#license)
-
----
 
 # Description
 
@@ -180,6 +162,41 @@ Understanding how networking tasks are separated into layers, including:
 * Network routing
 * OSI model layers
 * Network troubleshooting
+  
+# Submission Requirements
+
+To complete the assignment:
+
+-> Solve all 10 levels in the NetPractice interface.
+
+-> Export the configuration file for each level using Get my config.
+
+-> Place the exported files at the root of your Git repository.
+
+Root repository must contain:
+
+README.md
+level1
+level2
+level3
+level4
+level5
+level6
+level7
+level8
+level9
+level10
+
+# Important requirements:
+
+-> Enter login in the NetPractice interface before exporting files.
+
+-> During evaluation, you will be asked to solve 3 random levels within a limited time.
+
+-> External tools are not allowed during the defense.
+
+-> A basic calculator such as bc is tolerated.
+
 
 ## AI Usage
 
