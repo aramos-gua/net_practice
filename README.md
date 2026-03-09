@@ -108,14 +108,14 @@ Example:
 ```
 IP Address:  192.168.1.10
 
-                        Network portion
+                        Host portion
                          ^
                          |
 Subnet Mask: 255.255.255.0
              |----------|
                   |
                   V
-              Host portion
+              Network portion
 ```
 
 ### Default Gateway
